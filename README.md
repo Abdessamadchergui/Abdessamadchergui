@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm ABDESS
 
-<!--
-**Abdessamadchergui/Abdessamadchergui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Network Engineering graduate with a solid foundation in software development and computer science. I’ve built projects using Python, C++, Java, JavaScript, and worked with databases like MySQL.
 
-Here are some ideas to get you started:
+💻 Technologies I use:
+- Python, C++, Java, JavaScript
+- HTML, CSS, Node.js, Express
+- MySQL, Git, GitHub
+- MATLAB (image processing), Wix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Some projects I've worked on:
+- Student Management System (Python + MySQL)
+- Shop Inventory Manager (Python + MySQL)
+- Notepad app (C++)
+- Image processing projects in MATLAB and Java
+- Web components built on Wix and custom code
+
+📫 Feel free to reach out via email: abdoabdochergui@gmqil.com
+
+---
+
+_🛠️ I’m actively learning and building — always ready to take on new challenges._
