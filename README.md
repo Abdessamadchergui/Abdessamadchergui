@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ABDESS
 
-🎓 I'm a Network Engineering graduate with a solid foundation in software development and computer science. I’ve built projects using Python, C++, Java, JavaScript, and worked with databases like MySQL.
+🎓 I'm a Network Engineering graduate with a solid foundation in software development and computer science. I’ve built projects using Python, C++, Java, JavaScript, and worked with MySQL databases.
 
 💻 Technologies I use:
 - Python, C++, Java, JavaScript
